@@ -2,7 +2,7 @@
 Install notes for my installation of Gentoo Linux. Kept public incase anyone wants to follow my install notes for whatever reason. I won't take accept Pull Requests, unless I forgot a step in something and it needs to be added
 
 ## Drive Partitioning
-Partitioning drives is self explanatory. Use whatever you want to partition your disk.
+Partitioning drives is self explanatory. Use whatever you want to partition your disk. I use ``fdisk`` but again, you're free to use whatever
 
 | Filesystem | Size | Mountpoint |
 | ---|------|----------- |
